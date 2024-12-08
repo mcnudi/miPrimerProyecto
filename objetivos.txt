@@ -1,0 +1,4 @@
+Mis objetivos:
+    - Aprender git
+    - Aprender Angular
+    - Aprender JavaScript 
