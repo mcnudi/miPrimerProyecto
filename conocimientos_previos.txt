@@ -1,3 +1,4 @@
 Mis conocimientos
 - css
--java
+- java
+- jsp
